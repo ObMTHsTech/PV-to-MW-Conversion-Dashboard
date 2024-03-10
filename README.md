@@ -3,6 +3,7 @@ Date: Ffebruary, 2024
 Contributors:
 - Obongofon Udombat, obongofonekpeu2018@gmail.com
 
+The objective is to develop a comprehensive dashboard to visualize and analyze data from the US Department of Energy's solar power projects. This dashboard will include several tools for converting panel numbers to capacity, estimating land area from capacity, and visualizing operational years, capacity distribution, geographical concentration, and facility types of solar projects.
 
 - GeoJSON File (uspvdbGeoJSON.zip):
 
